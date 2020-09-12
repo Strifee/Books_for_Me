@@ -20,9 +20,6 @@ https://6bkuniec3b.pdcdn5.top/dl2.php?id=158286073&h=64b69a5ebbbf4e3988ef5b390dd
  ## Mastering Azure Analytics - Architecting in the Cloud with Azure Data Lake, HDInsight, and Spark :
  https://uk60bifflu.pdcdn4.top/dl2.php?id=176223097&h=917315cde4a47783b814c4a107fcb6cb&u=cache&ext=pdf&n=Mastering%20azure%20analytics%20architecting%20in%20the%20cloud%20with%20azure%20data%20lake%20hdinsight%20and%20spark
  
- ## Practical Tableau - 100 Tips, Tutorials, and Strategies from a Tableau Zen Master :
- https://uoig40ed5m.pdcdn4.top/dl2.php?id=188034960&h=688496b9c05e20318bd7435d7848adac&u=cache&ext=pdf&n=Practical%20tableau%20100%20tips%20tutorials%20and%20strategies%20from%20a%20tableau%20zen%20master
- 
  ## The Enterprise Big Data Lake - Delivering the Promise of Big Data and Data Science :
  https://qt6fk5sg1g.pdcdn2.top/dl2.php?id=187707745&h=ef16727905cb47eb1998479fd2be22b7&u=cache&ext=pdf&n=The%20enterprise%20big%20data%20lake%20delivering%20the%20promise%20of%20big%20data%20and%20data%20science
  
